@@ -1,0 +1,60 @@
+[
+    {   "id":"1",
+        "name":"Tony Khan",
+        "picture":"https://shazzad-hossen.github.io/image-host/images/chef/chef1.png",
+        "bio":"Chef Tony Alal Karim Khan is a Kenyan-born culinary artist, restaurateur, and food blogger. He founded a popular restaurant known for its fusion cuisine, earning him critical acclaim. With his innovative use of spices and flavors, he draws from his African heritage and global culinary influences to create unique dishes. Chef Tony is widely regarded as one of the most talented and innovative chefs of his generation. He continues to push the boundaries of modern cuisine, experimenting with new techniques and ingredients to create unforgettable dishes.",
+        "experience":"25 years",
+        "recepies":"20",
+        "likes":"2M"
+
+    },
+    {   "id":"2",
+        "name":"Nayeem Ashraf",
+        "picture":"https://shazzad-hossen.github.io/image-host/images/chef/chef2.png",
+        "bio":"Chef Nayeem Ashraf is a culinary expert and entrepreneur from Bangladesh. He is the founder of several popular restaurants, showcasing his passion for Bangladeshi and Indian cuisine. Chef Nayeem has gained a reputation for his innovative dishes, using locally-sourced ingredients and spices to create unique flavors. He is also known for his commitment to sustainability, incorporating eco-friendly practices into his restaurants. Chef Nayeem is considered one of the top chefs in Bangladesh, and a true ambassador for Bangladeshi cuisine.",
+        "experience":"10 years",
+        "recepies":"10",
+        "likes":"150k"
+
+    },
+    {
+        "id":"3",
+        "name":"Asad Latif",
+        "picture":"https://shazzad-hossen.github.io/image-host/images/chef/chef3.png",
+        "bio":"Asad Latif is a Bangladeshi chef and restaurateur. He is the founder of several popular restaurants in Dhaka, showcasing his passion for Bangladeshi cuisine. Chef Asad is known for his innovative dishes, which blend traditional Bangladeshi flavors with modern cooking techniques. He has won several awards for his culinary creations, and is widely regarded as one of the top chefs in Bangladesh. Chef Asad continues to inspire and educate others through his cooking, and is a true ambassador for Bangladeshi cuisine.",
+        "experience":"20 years",
+        "recepies":"12",
+        "likes":"200k"
+
+    },
+    {
+        "id":"4",
+        "name":"Tommy Miah",
+        "picture":"https://shazzad-hossen.github.io/image-host/images/chef/chef4.png",
+        "bio":"Chef Tommy Miah is a Bangladeshi-born chef, restaurateur, and author based in the UK. He is the founder of the award-winning Raj Restaurant in Edinburgh, Scotland, which has been open since 1981. Chef Tommy is known for his innovative approach to traditional Bangladeshi cuisine, as well as his commitment to using locally-sourced ingredients. He has received numerous awards for his culinary achievements, and is considered one of the leading figures in the UK's Bangladeshi food scene. Chef Tommy is also a philanthropist and a published author, with several cookbooks to his name.",
+        "experience":"20years",
+        "recepies":"15",
+        "likes":"80k"
+
+    },
+    {
+        "id":"5",
+        "name":"Kishwar Chowdhury",
+        "picture":"https://shazzad-hossen.github.io/image-host/images/chef/chef5.png",
+        "bio":"Kishwar Chowdhury is a Bangladeshi chef and restaurateur who gained fame for her appearance on the reality TV show 'MasterChef' UK in 2012. She is the owner of two restaurants in London, both known for their authentic Bangladeshi cuisine. Chef Kishwar is passionate about using fresh, locally-sourced ingredients and traditional cooking techniques to create flavorful and healthy dishes. She has won several awards for her culinary achievements, and is considered one of the top Bangladeshi chefs in the UK. Chef Kishwar continues to inspire and empower others through her cooking, and is a true ambassador for Bangladeshi cuisine.",
+        "experience":"8 years",
+        "recepies":"13",
+        "likes":"250k"
+
+    },
+    {
+        "id":"6",
+        "name":"Dil Afroz Sayda",
+        "picture":"https://shazzad-hossen.github.io/image-host/images/chef/chef6.png",
+        "bio":"Dil Afroz Sayda is a culinary specialist based in Bangladesh. She is passionate about traditional Bangladeshi cuisine, and has dedicated her career to promoting it both locally and internationally. Chef Dil Afroz is known for her expertise in regional dishes, as well as her innovative approach to cooking. She has trained under some of the top chefs in Bangladesh and has won numerous awards for her culinary creations. Chef Dil Afroz continues to inspire and educate others through her cooking, and is a true ambassador for Bangladeshi cuisine.",
+        "experience":"5 years",
+        "recepies":"8",
+        "likes":"310k"
+
+    }
+]
